@@ -16,6 +16,7 @@
 小程序： Uni-app  vue.js 2.x  
 后台管理系统： 在Vue Element Admin框架二次开发 ，开发语言为 vue.js 2.x
 
+PS：由于网络原因，GitHub有时候图片加载不出来，移步到码云查看：https://gitee.com/xiaoxu_1_365855675/seat_order
 ### 项目截图
 #### 小程序端
 ![输入图片说明](img/0334d512687a07111b8cf58e10377788.png)
